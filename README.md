@@ -1,3 +1,11 @@
+## Preview of Project
+<img width="1440" alt="Screenshot 2024-04-28 at 8 07 39 PM" src="https://github.com/benjaminbelloeil/RockwellLogin/assets/113941255/963e4a31-9c99-4216-900f-87c7d7ee81ad">
+<img width="1171" alt="Screenshot 2024-04-28 at 9 05 34 PM" src="https://github.com/benjaminbelloeil/RockwellLogin/assets/113941255/0d131b75-3993-4a87-beb3-d6f3d11e1e22">
+
+## Before getting started
+
+Please run "npm i" in your terminal in order for the program to work!!!!
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
